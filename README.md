@@ -1,6 +1,6 @@
 # All Restaurants in Milwaukee, Wisconsin, US
 
-> Free BeamStation sample export with 154 rows and masked direct-contact fields.
+> Free BeamStation sample export with 100 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `797306` |
 | Location | Milwaukee |
 | Category | Restaurants |
-| Full dataset size | 1,540 records |
-| Free sample size | 154 records (10.0%) |
-| Last export | 2026-04-14T09:54:00.189375+00:00 |
+| Full dataset size | 1,001 records |
+| Free sample size | 100 records (9.99%) |
+| Last export | 2026-04-21T09:56:38.593549+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-milwaukee-wisconsin-us-sample-797306/releases/download/sample-latest/beamstation_797306_restaurants-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
