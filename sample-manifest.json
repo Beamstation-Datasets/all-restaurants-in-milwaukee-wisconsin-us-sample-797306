@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d7e88813-2de0-4456-a2d2-5314af68c422",
+  "export_job_id": "57eba576-ff6b-4d25-97a8-ddb35f9bf4d1",
   "id_short": 797306,
-  "published_at": "2026-04-21T19:49:44Z",
+  "published_at": "2026-04-28T19:10:42Z",
   "repo_name": "all-restaurants-in-milwaukee-wisconsin-us-sample-797306",
   "sample_asset_name": "beamstation_797306_restaurants-us-wi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/797306/beamstation_797306_restaurants-us-wi_SAMPLE_DIST.csv",
-  "sample_records": 100,
-  "sample_sha256": "63df4fe9d4a026df7314fe074adc77efc2ef7b071e1e012ce327909aaddd72a4",
-  "sample_size_bytes": 370994,
-  "total_records": 1001
+  "sample_records": 149,
+  "sample_sha256": "1d794c2a2b899d3d4b3955f8dfc9a3854835aa45690d8cb88a88237fe95bc65c",
+  "sample_size_bytes": 462129,
+  "total_records": 1490
 }
