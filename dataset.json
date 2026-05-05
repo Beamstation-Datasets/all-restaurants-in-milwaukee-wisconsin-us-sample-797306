@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Milwaukee, Wisconsin with a population of over 577k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
   "config_name": "All Restaurants in Milwaukee, Wisconsin, US",
-  "export_job_id": "57eba576-ff6b-4d25-97a8-ddb35f9bf4d1",
+  "export_job_id": "902dd6a4-58d6-4991-9e0f-01fc72defab6",
   "github_org": "Beamstation-Datasets",
   "id_short": 797306,
   "location_name": "Milwaukee",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-milwaukee-wisconsin-us-sample-797306",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/797306/beamstation_797306_restaurants-us-wi_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 149,
-  "sample_sha256": "1d794c2a2b899d3d4b3955f8dfc9a3854835aa45690d8cb88a88237fe95bc65c",
-  "sample_size_bytes": 462129,
-  "total_records": 1490,
-  "updated_at": "2026-04-28T09:56:39.686182+00:00"
+  "sample_records": 165,
+  "sample_sha256": "46993744018c5685ba253f82123c036b32fcec7999784137bf6f90564611793e",
+  "sample_size_bytes": 591280,
+  "total_records": 1650,
+  "updated_at": "2026-05-05T10:09:31.768669+00:00"
 }
